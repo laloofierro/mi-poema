@@ -1,10 +1,11 @@
-Mi poema
+Mi poema y las ediciones
 
-Este poema
-Es muy blah blah
-Aunque en realidad
-Ni me lo blah blah blah
-Blah blah blah
+Este poema lo vamos a editar muchas veces
+Es muy blah blah blah blah
+Aunque en realidad ya sabíamos
+Ni me lo blah blah blah blah blah blah blah
+Ni me lo blah blah blah blah blah blah blah
+Blah blah blah 
 
 Oh si
 Poema poema
@@ -12,4 +13,5 @@ Blah blah blah
 Blah Blah Blah
 
 Blah blah
-Blah blah blah
+Ni me lo blah blah blah blah blah blah blah
+Blah blah blah 
